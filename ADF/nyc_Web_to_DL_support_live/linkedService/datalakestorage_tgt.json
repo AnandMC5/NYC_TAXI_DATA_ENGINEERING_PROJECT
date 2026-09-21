@@ -1,0 +1,12 @@
+{
+    "name": "datalakestorage_tgt",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzureBlobFS",
+        "typeProperties": {
+            "url": "https://nyctaxistorageanand.dfs.core.windows.net/",
+            "encryptedCredential": "******************************"
+        }
+    }
+}
