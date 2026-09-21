@@ -1,11 +1,11 @@
 # NYC_TAXI_DATA_ENGINEERING_PROJECT
 
-1. Project Structure
+1. Project Structure:
 This screenshot shows the overall organization of the NYC Taxi Data Engineering project, including the Azure Data Factory configuration, Databricks notebooks, Bronze and Silver data layers, Gold-layer outputs, and Power BI artifacts.
 
 <img width="1536" height="1024" alt="project_structure_nyc_taxi" src="https://github.com/user-attachments/assets/4303b271-fd75-41ea-9d9f-28313f73fa4d" />
 
-
+                      
 2. Azure Resource Group
 This screenshot shows the Azure Resource Group containing the core resources used in the project, providing a centralized view of the services required for the end-to-end data engineering workflow.
 
